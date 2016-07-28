@@ -1,6 +1,5 @@
-package com.leon.main;
+package com.leon.algorithm;
 
-import com.leon.algorithm.SortImp;
 import com.leon.utils.ArraysUtils;
 
 public class Main {
